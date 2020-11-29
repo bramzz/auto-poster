@@ -1,4 +1,4 @@
-# auto-poster fork
+# auto-poster
 
 Automatically post images from a subreddit to an instagram account.
 
