@@ -1,0 +1,7 @@
+-#!/bin/sh     
+ssh jenkins@51.255.165.170 <<EOF       
+ cd ~/auto-pster 
+ git pull      
+ npm install
+ exit      
+EOF
