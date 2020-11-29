@@ -1,0 +1,6 @@
+#!/bin/sh            
+ cd /home/ubuntu/projects/auto-poster 
+ git pull      
+ npm install
+ exit      
+EOF
