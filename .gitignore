@@ -111,3 +111,6 @@ database.db
 
 # Settings
 settings.json
+
+# Deploy file
+deploy
