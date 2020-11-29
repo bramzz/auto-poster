@@ -1,5 +1,5 @@
 #!/bin/sh            
- cd ~/auto-poster 
+ cd /home/ubuntu/projects/auto-poster 
  git pull      
  npm install
  exit      
